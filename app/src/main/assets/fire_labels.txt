@@ -1,0 +1,4 @@
+Fire
+Smoke
+Stove
+Not_fire

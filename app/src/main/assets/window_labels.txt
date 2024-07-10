@@ -1,0 +1,5 @@
+window
+door
+frame
+not_w_d
+eavesdrop

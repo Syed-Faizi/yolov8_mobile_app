@@ -1,0 +1,6 @@
+fall
+jump
+s_wall
+sitting
+standing
+walking

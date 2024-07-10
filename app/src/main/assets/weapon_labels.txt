@@ -1,0 +1,7 @@
+Mobile
+Pistol
+Pistol_hand
+Rifle
+Rifle_hand
+Keyboard
+toy
